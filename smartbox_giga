@@ -23,7 +23,7 @@
 5. Добавление OOB к полному дампу
    - Используйте bbe для добавления OOB к полному дампу:
 
-     bbe -b ":512" -e "A 0000000000000000" ful < full_dump.bin > full_dump_with_oob.bin
+     bbe -b ":512" -e "A 0000000000000000" full_dump.bin > full_dump_with_oob.bin
 
    - Эта команда добавляет OOB к концу полного дампа
 
