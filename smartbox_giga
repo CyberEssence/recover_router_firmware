@@ -57,8 +57,8 @@
 Sercomm Recovery Tool:
 https://github.com/danitool/sercomm-recovery
 
-Nanddump Tool:
-https://github.com/danitool/sercomm-recovery
+Nanddump Tool (included in mtd-utils repo):
+https://github.com/sigma-star/mtd-utils 
 
 bbe tool:
 https://github.com/TimoSavi/bbe
